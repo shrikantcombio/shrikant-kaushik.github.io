@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Conformational analysis of protein-RNA recognition"
+excerpt: "PRDBv3.0<br/><img src='/images/portfolio_500x300.png'>"
 collection: portfolio
 ---
 
